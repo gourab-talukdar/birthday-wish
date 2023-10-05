@@ -25,11 +25,9 @@ The Birthday Wish JavaScript Project is a simple web application that allows use
 ```bash
 git clone https://github.com/gourab-talukdar/birthday-wish.git
 
-<br>
 If you find something usefull, then please mention my profiles:
-<br>
 LinkedId: https://www.linkedin.com/in/gourabtalukdar/
-<br>
 GitHub: https://github.com/gourab-talukdar
-<br><br>
+
+
 Happy coding and happy birthday!
